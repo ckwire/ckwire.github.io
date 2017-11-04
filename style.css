@@ -68,7 +68,7 @@ small {
     display: none;
 }
 
-@media (max-width: 767px) {
+/*@media (max-width: 767px) {
     body {
         background-color: #efefef;
     }
@@ -100,4 +100,4 @@ small {
     .backstretch {
         opacity: 0.2;
     }
-}
+}*/
